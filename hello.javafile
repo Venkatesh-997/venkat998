@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class hello ()   #from dev2
 
 {
@@ -5,6 +6,15 @@ class hello ()   #from dev2
 	
 	{
 		system.out.println("hello");
+=======
+class hello ()	#from dev1
+	
+{
+	public static void main()	#from dev1
+	
+	{
+		system.out.println("hello from dev1");
+>>>>>>> 6cb50913a1cd2a1907fcdbd9a19ceae3153289b6
 
 	}
 
